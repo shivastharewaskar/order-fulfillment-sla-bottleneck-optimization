@@ -10,6 +10,11 @@
 
 ---
 
+## 📊 Operations Control Tower & SLA Dashboard UI
+![Logistics SLA Control Tower Dashboard Preview](assets/dashboard_preview.png)
+
+---
+
 ## Executive Summary
 This project provides an end-to-end operational and business systems analysis of an e-commerce fulfillment network handling **8,000+ orders across 4 regional hubs and 4 carrier networks**. 
 
